@@ -1,2 +1,24 @@
-# SIR_ABDULLAH_MOTI_WALA_ESSAY_TASK
-# HTML Essay Project  This project contains a simple HTML essay demonstrating basic HTML tags learned in class. It includes headings, paragraphs, text formatting, lists, tables, images, links, and semantic elements. The purpose of this project is to practice HTML structure and improve understanding of web page development using standard HTML5.
+# 🌐 HTML Essay Project
+
+## 📖 About
+
+This project is a simple HTML essay created to practice basic HTML5 tags learned in class. It demonstrates the use of headings, paragraphs, text formatting, lists, tables, images, links, and semantic elements.
+
+## ✨ Features
+
+* 📝 HTML5 Structure
+* 🔤 Headings & Paragraphs
+* 🎨 Text Formatting
+* 📋 Ordered & Unordered Lists
+* 📊 Tables
+* 🖼️ Images
+* 🔗 Hyperlinks
+* 🏷️ Semantic HTML Tags
+
+## 🚀 Purpose
+
+The goal of this project is to strengthen HTML fundamentals and understand how to build a well-structured web page using standard HTML elements.
+
+## 👨‍💻 Author
+
+**M.Abdullah_Anwar**
